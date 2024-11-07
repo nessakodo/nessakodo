@@ -56,7 +56,7 @@
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<!-- ## 𝘚𝘵𝘢𝘵𝘴 />
+## 𝘚𝘵𝘢𝘵𝘴
 
 <!-- #### />
 
@@ -70,9 +70,9 @@
 </a> -->
 
 
-<!-- ![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->
-<!-- ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=tokyonight) -->
-<!-- [![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave) -->
+![Stats](https://github-readme-stats.herokuapp.com/?user=nessakodo&theme=synthwave) -->
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nessakodo&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.herokuapp.com/?user=nessakodo&layout=compact&theme=synthwave) -->
 
 
 ## 𝘓𝘪𝘯𝘬𝘴
@@ -110,4 +110,5 @@
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
 
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bfd66cd60c9efc0a?viewMode=1)
+[![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/nessakodo)
 [![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nessakodo?new=1)
