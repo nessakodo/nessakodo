@@ -31,7 +31,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-![nessakodo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nessakodo&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+![nessakodo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nessakodo&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴
