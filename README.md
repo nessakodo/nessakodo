@@ -33,7 +33,7 @@
 
 
 
-![nessakodo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nessakodo&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![nessakodo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nessakodo&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴
@@ -91,7 +91,7 @@
 
 
 ####
-#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
+#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
