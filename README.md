@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-000000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -29,6 +30,7 @@
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 
 ![nessakodo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nessakodo&theme=merko&show_icons=true&hide_border=true&layout=compact)
