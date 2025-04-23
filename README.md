@@ -72,13 +72,13 @@
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com)
 
 
-
-####
-#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
 
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bfd66cd60c9efc0a?viewMode=1)
 [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/nessakodo)
 [![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nessakodo?new=1)
+
+####
+#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
