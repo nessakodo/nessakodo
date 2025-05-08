@@ -3,7 +3,6 @@
 ## 𝘐’𝘮 𝘢 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺-𝘭𝘦𝘢𝘯𝘪𝘯𝘨 𝘧𝘶𝘭𝘭-𝘴𝘵𝘢𝘤𝘬 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘪-𝘢𝘴𝘴𝘪𝘴𝘵𝘦𝘥 𝘵𝘰𝘰𝘭𝘴 𝘧𝘰𝘳 𝘤𝘺𝘣𝘦𝘳 𝘢𝘸𝘢𝘳𝘦𝘯𝘦𝘴𝘴, 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘦𝘮𝘦𝘳𝘨𝘪𝘯𝘨 𝘧𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘧𝘭𝘰𝘸.
 
 ## 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
-
 ### 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 & 𝘚𝘤𝘳𝘪𝘱𝘵𝘪𝘯𝘨
 ####
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -65,7 +64,6 @@
 
 
 ## 𝘞𝘰𝘳𝘬
-
 ####
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/)
 [![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nessakodo)
@@ -73,11 +71,9 @@
 
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
-
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bfd66cd60c9efc0a?viewMode=1)
 [![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nessakodo?new=1)
 
 ####
 #### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&quote=Don’t+think+you+are,+know+you+are.&author=Morpheus)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
