@@ -54,7 +54,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-### 𝘋𝘦𝘴𝘪𝘨𝘯 & 𝘗𝘳𝘰𝘥𝘶𝘤𝘵
+### 𝘋𝘦𝘴𝘪𝘨𝘯 + 𝘗𝘳𝘰𝘥𝘶𝘤𝘵
 ####
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
