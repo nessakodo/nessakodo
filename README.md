@@ -17,7 +17,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
-
 ### 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 & 𝘓𝘪𝘣𝘳𝘢𝘳𝘪𝘦𝘴
 ####
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
@@ -62,13 +61,11 @@
 ![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white)
 
-
 ## 𝘞𝘰𝘳𝘬
 ####
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessakodo/)
 [![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nessakodo)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com)
-
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bfd66cd60c9efc0a?viewMode=1)
