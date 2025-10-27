@@ -64,7 +64,7 @@
 ####
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamadison/)
 [![Dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vanessamadison)
-[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessakodo@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessa@liriolabs.com)
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘔𝘦
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bfd66cd60c9efc0a?viewMode=1)
