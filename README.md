@@ -1,14 +1,22 @@
 # 𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘐’𝘮 𝘕𝘦𝘴𝘴𝘢  
 
-## 𝘐’𝘮 𝘢 𝘤𝘺𝘣𝘦𝘳-𝘥𝘳𝘪𝘷𝘦𝘯 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥, 𝘢𝘪-𝘢𝘴𝘴𝘪𝘴𝘵𝘦𝘥 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘧𝘰𝘳 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺, 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘧𝘳𝘰𝘯𝘵𝘪𝘦𝘳 𝘵𝘦𝘤𝘩.  
+### 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 • 𝘍𝘶𝘭𝘭–𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 • 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩𝘦𝘳  
 
-DoD VICEROY Fellow • Clearance Eligible • Security+ (2025) • AWS Security Specialty (In Progress)  
+𝘐 𝘥𝘦𝘴𝘪𝘨𝘯 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘵 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘵𝘩𝘢𝘵 𝘱𝘳𝘰𝘵𝘦𝘤𝘵 𝘸𝘩𝘢𝘵 𝘮𝘢𝘬𝘦𝘴 𝘶𝘴 𝘩𝘶𝘮𝘢𝘯.  
+𝘐 𝘣𝘶𝘪𝘭𝘥 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥, 𝘈𝘐–𝘢𝘴𝘴𝘪𝘴𝘵𝘦𝘥 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘵𝘰𝘰𝘭𝘴, 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘵 𝘪𝘯𝘧𝘳𝘢, 𝘢𝘯𝘥 𝘲𝘶𝘢𝘯𝘵𝘶𝘮–𝘳𝘦𝘢𝘥𝘺 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦𝘴 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘯𝘦𝘹𝘵 𝘦𝘳𝘢 𝘰𝘧 𝘤𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨.  
 
----
+🎯 𝘋𝘰𝘋 𝘝𝘐𝘊𝘌𝘙𝘖𝘠 𝘍𝘦𝘭𝘭𝘰𝘸  
+🔐 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘊𝘭𝘦𝘢𝘳𝘢𝘯𝘤𝘦 𝘌𝘭𝘪𝘨𝘪𝘣𝘭𝘦  
+📜 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺+ (𝟸𝟶𝟸𝟻) • 𝘈𝘞𝘚 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘚𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺 (𝘪𝘯 𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴)  
+
+[**𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 → vanessamadison.com**](https://vanessamadison.com)  
+[**𝘎𝘪𝘵𝘏𝘶𝘣 → github.com/nessakodo**](https://github.com/nessakodo)  
+[**𝘓𝘪𝘯𝘬𝘦𝘥𝘐𝘯 → /in/vanessamadison**](https://www.linkedin.com/in/vanessamadison/)  
 
 ## 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬  
 
-### 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 & 𝘚𝘤𝘳𝘪𝘱𝘵𝘪𝘯𝘨  
+
+### 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 + 𝘚𝘤𝘳𝘪𝘱𝘵𝘪𝘯𝘨  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +34,7 @@ DoD VICEROY Fellow • Clearance Eligible • Security+ (2025) • AWS Security 
 
 ---
 
-### 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 & 𝘓𝘪𝘣𝘳𝘢𝘳𝘪𝘦𝘴  
+### 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴 + 𝘓𝘪𝘣𝘳𝘢𝘳𝘪𝘦𝘴  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,7 +52,7 @@ DoD VICEROY Fellow • Clearance Eligible • Security+ (2025) • AWS Security 
 
 ---
 
-### 𝘋𝘢𝘵𝘢 & 𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵  
+### 𝘋𝘢𝘵𝘢 + 𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -57,7 +65,7 @@ DoD VICEROY Fellow • Clearance Eligible • Security+ (2025) • AWS Security 
 
 ---
 
-### 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 & 𝘐𝘯𝘧𝘳𝘢  
+### 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 + 𝘐𝘯𝘧𝘳𝘢  
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp--Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -85,14 +93,6 @@ DoD VICEROY Fellow • Clearance Eligible • Security+ (2025) • AWS Security 
 [**PhishKiller**](https://vanessamadison.com/projects/phishkiller) – AI-driven phishing detection CLI using SPF, DMARC, and ML  
 [**Cryptiq**](https://vanessamadison.com/projects/cryptiq) – Post-quantum secure messaging with Kyber-768 & Dilithium-3  
 [**CareSense**](https://vanessamadison.com/projects/caresense) – HIPAA-compliant AI triage with privacy-preserving NLP  
-
----
-
-## 𝘊𝘰𝘯𝘯𝘦𝘤𝘵  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamadison/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vanessamadison.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nessakodo)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessamadison@proton.me)
 
 ---
 
