@@ -102,6 +102,4 @@
 [![Upwork](https://img.shields.io/badge/UpWork-000000?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bfd66cd60c9efc0a?viewMode=1)
 [![Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nessakodo?new=1)
 
----
 
-#### [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&quote=Technology+should+protect+what+makes+us+human.&author=Vanessa+Madison)](https://vanessamadison.com)
