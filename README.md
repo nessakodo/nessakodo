@@ -24,15 +24,14 @@
 
 ---
 
-𝘛𝘦𝘤𝘩 𝘢𝘴 𝘵𝘦𝘹𝘵𝘶𝘳𝘦.  
-𝘛𝘦𝘤𝘩 𝘢𝘴 𝘳𝘪𝘵𝘶𝘢𝘭.  
-𝘛𝘦𝘤𝘩 𝘢𝘴 𝘮𝘦𝘥𝘪𝘶𝘮.
+## 𝘛𝘦𝘤𝘩 𝘢𝘴 𝘵𝘦𝘹𝘵𝘶𝘳𝘦.  
+## 𝘛𝘦𝘤𝘩 𝘢𝘴 𝘳𝘪𝘵𝘶𝘢𝘭.  
+## 𝘛𝘦𝘤𝘩 𝘢𝘴 𝘮𝘦𝘥𝘪𝘶𝘮.
 
 ---
 
 ## 𝘊𝘰𝘯𝘯𝘦𝘤𝘵  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nessakodo.com)  
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessa@nessakodo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nessakodo.com) [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessa@nessakodo.com)
 
 ## 𝘚𝘶𝘱𝘱𝘰𝘳𝘵  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nessakodo?new=1)
