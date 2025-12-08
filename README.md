@@ -1,4 +1,4 @@
-# ʕっ• ᴥ • ʔっ [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnessakodo%2Fnessakodo%2F&label=hits&icon=github&color=%23087996&style=for-the-badge&tz=US%2FMountain)](https://hitscounter.dev)
+## ʕっ• ᴥ • ʔっ [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnessakodo%2Fnessakodo%2F&label=hits&icon=github&color=%23087996&style=for-the-badge&tz=US%2FMountain)](https://hitscounter.dev)
 
 # 𝘏𝘪, 𝘐’𝘮 𝘕𝘦𝘴𝘴𝘢  
 
