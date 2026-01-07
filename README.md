@@ -1,5 +1,4 @@
 ## ʕっ• ᴥ • ʔっ [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnessakodo%2Fnessakodo%2F&label=hits&icon=github&color=%23087996&style=for-the-badge&tz=US%2FMountain)](https://hitscounter.dev)
-
 # 𝘏𝘪, 𝘐’𝘮 𝘕𝘦𝘴𝘴𝘢  
 
 𝘐 𝘦𝘹𝘱𝘭𝘰𝘳𝘦 𝘵𝘩𝘦 𝘴𝘱𝘢𝘤𝘦 𝘸𝘩𝘦𝘳𝘦 𝘤𝘰𝘥𝘦, 𝘴𝘰𝘶𝘯𝘥, 𝘮𝘰𝘷𝘦𝘮𝘦𝘯𝘵 𝘤𝘰𝘯𝘴𝘤𝘪𝘰𝘶𝘴 𝘵𝘦𝘤𝘩 𝘮𝘦𝘦𝘵.  
