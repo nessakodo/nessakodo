@@ -35,6 +35,9 @@
 
 ---
 
+# 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨
+🜂 Lirio Labs — 𝘢 𝘴𝘶𝘪𝘵𝘦 𝘰𝘧 𝘤𝘪𝘯𝘦𝘮𝘢𝘵𝘪𝘤, 𝘪𝘯𝘴𝘵𝘳𝘶𝘮𝘦𝘯𝘵 𝘭𝘪𝘬𝘦 𝘢𝘱𝘱𝘴 𝘧𝘰𝘳 𝘵𝘩𝘰𝘶𝘨𝘩𝘵, 𝘴𝘰𝘶𝘯𝘥, 𝘢𝘯𝘥 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺.🜁 𝘓𝘪𝘷𝘦 𝘩𝘢𝘳𝘥𝘸𝘢𝘳𝘦 𝘵𝘦𝘤𝘩𝘯𝘰 + 𝘮𝘰𝘥𝘶𝘭𝘢𝘳 𝘴𝘺𝘴𝘵𝘦𝘮𝘴.
+
 ## 𝘊𝘰𝘯𝘯𝘦𝘤𝘵  
 [![Portfolio](https://img.shields.io/badge/Portfolio-087996?style=for-the-badge&logo=vercel&logoColor=white)](https://nessakodo.com)
 [![Email](https://img.shields.io/badge/Email-087996?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nessa@nessakodo.com)
